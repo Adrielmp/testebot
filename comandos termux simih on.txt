@@ -1,0 +1,37 @@
+Os comandos que uso pra Executar 
+
+Comandos Lorde Screamo
+
+$ termux-setup-storage
+
+$ pkg install git -y && pkg install nodejs -y && pkg install wget -y && pkg install libwebp -y && pkg install ffmpeg -y && pkg install nodejs -y
+
+$ cp  -r /sdcard/Download/cafe-main /data/data/com.termux/files/home
+
+
+$ cd cafe-main
+
+
+$ bash install.sh
+
+
+$ npm start
+
+
+
+
+
+
+
+
+
+para você pega o QR você deve ter outro celular
+
+
+
+
+
+
+
+
+
